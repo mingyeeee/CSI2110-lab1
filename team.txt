@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Mingye Chen
+=======
+Antonin Francoeur
+>>>>>>> 049d3f9bc257ba8bc95258e377935d744ff1a989
 Saavan Verma
 
